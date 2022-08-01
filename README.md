@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hyejun%20&fontSize=70&&fontAlign=15&&fontAlignY=45&desc=Front-end%20Developer&descAlign=15&descAlignY=65&descSize=24)
 
+## 🛠 Tech Stack
+
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
