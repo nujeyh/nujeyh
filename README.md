@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hyejun%20&fontSize=70&&fontAlign=15&&fontAlignY=45&desc=Front-end%20Developer&descAlign=15&descAlignY=65&descSize=24)
+ <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hyejun%20&fontSize=70&&fontAlignY=40&desc=Front-end%20Developer&descAlignY=60&descSize=24)
 
 ## 🛠 Tech Stack
 
@@ -22,9 +24,10 @@
 
 <br>
 
-----
+## 📊 My Stats
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nujeyh&hide=stars&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nujeyh&hide=stars&hide_title=true&show_icons=true&line_height=30&bg_color=30,aa4b6b,6b6b83,3b8d99&title_color=e8e8e8&text_color=e8e8e8&icon_color=e8e8e8)
 
+</div>
