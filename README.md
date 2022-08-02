@@ -19,3 +19,6 @@
 <div>
 <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nujeyh&hide=stars)(https://github.com/nujeyh)
+
