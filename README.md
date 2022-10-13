@@ -1,4 +1,6 @@
- <div align="center">
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnujeyh%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![InsecureHauntingConey-size_restricted](https://user-images.githubusercontent.com/102746846/195639517-343469b5-3acf-46f0-bcfe-e92197601e83.gif)
 
@@ -23,6 +25,7 @@
 </div>
 
 <br>
+
 </div> 
  
  
