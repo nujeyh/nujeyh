@@ -1,6 +1,6 @@
  <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hyejun%20&fontSize=70&&fontAlignY=40&desc=Front-end%20Developer&descAlignY=60&descSize=24)
+![InsecureHauntingConey-size_restricted](https://user-images.githubusercontent.com/102746846/195639517-343469b5-3acf-46f0-bcfe-e92197601e83.gif)
 
 ## 🛠 Tech Stack
 
